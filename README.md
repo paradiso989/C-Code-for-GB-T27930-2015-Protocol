@@ -24,8 +24,8 @@ The project is organized into the following layers:
   **硬件层**：提供硬件特定实现的抽象
 - **User Layer**: Contains charging control logic and user interface
   **用户层**：包含充电控制逻辑和用户界面
-- **Error Handling**: Manages protocol errors and exceptions
-  **错误处理**：管理协议错误和异常
+- **ErrorHandling Layer**: Manages protocol errors and exceptions
+  **错误处理层**：管理协议错误和异常
 
 
 
